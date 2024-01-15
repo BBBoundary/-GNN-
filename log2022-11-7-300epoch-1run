@@ -1,0 +1,34 @@
+Run: 01, Epoch: 10, Loss: 0.1227, Train: 63.552%, Valid: 63.529% 
+Run: 01, Epoch: 20, Loss: 0.0970, Train: 68.043%, Valid: 67.534% 
+Run: 01, Epoch: 30, Loss: 0.0746, Train: 69.941%, Valid: 68.921% 
+Run: 01, Epoch: 40, Loss: 0.0673, Train: 67.937%, Valid: 67.472% 
+Run: 01, Epoch: 50, Loss: 0.0656, Train: 70.161%, Valid: 69.459% 
+Run: 01, Epoch: 60, Loss: 0.0643, Train: 72.078%, Valid: 71.041% 
+Run: 01, Epoch: 70, Loss: 0.0637, Train: 73.073%, Valid: 71.964% 
+Run: 01, Epoch: 80, Loss: 0.0633, Train: 73.750%, Valid: 72.561% 
+Run: 01, Epoch: 90, Loss: 0.0630, Train: 74.424%, Valid: 73.171% 
+Run: 01, Epoch: 100, Loss: 0.0628, Train: 74.926%, Valid: 73.580% 
+Run: 01, Epoch: 110, Loss: 0.0625, Train: 75.363%, Valid: 73.964% 
+Run: 01, Epoch: 120, Loss: 0.0624, Train: 75.723%, Valid: 74.275% 
+Run: 01, Epoch: 130, Loss: 0.0622, Train: 76.046%, Valid: 74.571% 
+Run: 01, Epoch: 140, Loss: 0.0621, Train: 76.319%, Valid: 74.819% 
+Run: 01, Epoch: 150, Loss: 0.0620, Train: 76.548%, Valid: 75.029% 
+Run: 01, Epoch: 160, Loss: 0.0619, Train: 76.738%, Valid: 75.201% 
+Run: 01, Epoch: 170, Loss: 0.0618, Train: 76.900%, Valid: 75.348% 
+Run: 01, Epoch: 180, Loss: 0.0617, Train: 77.041%, Valid: 75.474% 
+Run: 01, Epoch: 190, Loss: 0.0616, Train: 77.169%, Valid: 75.579% 
+Run: 01, Epoch: 200, Loss: 0.0616, Train: 77.285%, Valid: 75.668% 
+Run: 01, Epoch: 210, Loss: 0.0615, Train: 77.392%, Valid: 75.750% 
+Run: 01, Epoch: 220, Loss: 0.0615, Train: 77.490%, Valid: 75.831% 
+Run: 01, Epoch: 230, Loss: 0.0614, Train: 77.583%, Valid: 75.909% 
+Run: 01, Epoch: 240, Loss: 0.0614, Train: 77.671%, Valid: 75.982% 
+Run: 01, Epoch: 250, Loss: 0.0613, Train: 77.754%, Valid: 76.044% 
+Run: 01, Epoch: 260, Loss: 0.0613, Train: 77.834%, Valid: 76.100% 
+Run: 01, Epoch: 270, Loss: 0.0612, Train: 77.911%, Valid: 76.148% 
+Run: 01, Epoch: 280, Loss: 0.0612, Train: 77.984%, Valid: 76.195% 
+Run: 01, Epoch: 290, Loss: 0.0612, Train: 78.053%, Valid: 76.236% 
+Run: 01, Epoch: 300, Loss: 0.0611, Train: 78.118%, Valid: 76.275% 
+Run 01:
+Highest Train: 78.12
+Highest Valid: 76.28
+  Final Train: 78.12
